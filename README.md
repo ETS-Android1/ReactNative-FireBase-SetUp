@@ -1,3 +1,3 @@
 ## React Native FireBase Setup
 
-[alt text](./readmeResources/icon1.png)
+(./readmeResources/icon1.png)
