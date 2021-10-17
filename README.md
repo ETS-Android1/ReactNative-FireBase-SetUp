@@ -14,5 +14,26 @@ yarn add @react-native-firebase/app
 
 # Firebase Console Setup :
 
-- Open [Filebase Console](https://console.firebase.google.com/)
-  <img src="readmeResources/icon1.png" width="800" height="400">
+- Open [Filebase Console](https://console.firebase.google.com/) and then click Get Started ...
+
+  ![alt text](./readmeResources/icon1.png)
+
+- Then Click Create a Project
+
+  ![alt text](./readmeResources/icon2.png)
+
+- If you already created a project then click Add project
+
+  ![alt text](./readmeResources/icon3.png)
+
+- Then give a project name
+
+  ![alt text](./readmeResources/icon4.png)
+
+- If you don't want firebase analytics then dasibale it and click Create Project
+
+  ![alt text](./readmeResources/icon5.png)
+
+- When your projrct is created then click Continue
+
+  ![alt text](./readmeResources/icon6.png)
